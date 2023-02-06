@@ -11,7 +11,7 @@ Atribut "driver" služi za spremanje instance Webdriver-a, dok svojstvo "DriverP
 ![image](https://user-images.githubusercontent.com/54780312/216853476-aa175cc2-9754-46ca-adb3-82d72fc1fa17.png)
 
 Pomoćna metoda "SearchOnAmazon" upisuje u tražilicu zadani pojam.
-Metoda "AddFirstProductToCard" dodaje prvi proizvod u karticu u zadanoj količini i kreira Product koji trenutno služi za spremanje naslova i cijene proizvoda, a može biti proširen sa bilo kojim podatcima koji su vezani za proizvod i koji se mogu dohvatiti sa stranice proizvoda.
+Metoda "AddFirstProductToCard" dodaje prvi proizvod u karticu u zadanoj količini i kreira Product koji trenutno služi za spremanje naslova i cijene proizvoda. Može biti proširen sa bilo kojim podatcima koji su vezani za proizvod i koji se mogu dohvatiti sa stranice proizvoda te služiti za testiranje drugih funkcionalnosti.
 "ChangeQuantity" mijenja količinu na stranici proizvoda.
 
 ![image](https://user-images.githubusercontent.com/54780312/216854201-a68f56a3-bd9e-45fe-b11a-cb231d457cd3.png)
